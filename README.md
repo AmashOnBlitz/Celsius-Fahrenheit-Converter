@@ -1,4 +1,4 @@
-# Celsius-Fahrenheit Converter C++
+# Celsius-Fahrenheit Convertor C++
 
 A simple command-line tool written in C++ to convert temperatures between Celsius and Fahrenheit. This tool is designed for beginners and experts alike, providing a quick and efficient way to perform conversions. 
 
